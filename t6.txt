@@ -1,0 +1,12 @@
+I am t6.
+line1
+t6 line2
+
+
+t6 line3
+
+end 
+
+t6 append line1
+t6 append line2
+

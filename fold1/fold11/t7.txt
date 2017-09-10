@@ -1,0 +1,48 @@
+t7 line1
+t7 line2
+     1	I am t6.
+     2	line1
+     3	t6 line2
+
+
+     4	t6 line3
+
+     5	end 
+
+     6	t6 append line1
+     7	t6 append line2
+
+     8	     1	I am t1.txt
+     9	     2	I am line 1.
+    10	     3	I am line 2.
+    11	     4	
+I am t6.
+line1
+t6 line2
+
+t6 line3
+
+end 
+
+t6 append line1
+t6 append line2
+
+     1	I am t1.txt
+     2	I am line 1.
+     3	I am line 2.
+     4	
+     1	I am t6.
+     2	line1
+     3	t6 line2
+
+     4	t6 line3
+
+     5	end 
+
+     6	t6 append line1
+     7	t6 append line2
+
+     8	     1	I am t1.txt
+     9	     2	I am line 1.
+    10	     3	I am line 2.
+    11	     4	
